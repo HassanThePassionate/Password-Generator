@@ -1,5 +1,10 @@
 # Password Generator
 
+![Screenshot 2024-09-30 103709](https://github.com/user-attachments/assets/89bffd41-a9c0-47ba-85cf-b553ccec1bf4)
+
+
+
+
 ## Description
 
 This Password Generator is a customizable tool built using React with a sleek Cyberpunk theme. The generator allows you to create secure passwords with a length of 8 characters by default, and you can increase the length as per your requirements. You also have the option to include numbers and special characters through checkboxes. With every page refresh, a new password is generated.
